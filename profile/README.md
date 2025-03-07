@@ -52,8 +52,8 @@ We encourage contributions that improve performance, add new features, fix bugs,
 
 - Website: [elyndrastudios.com](http://elyndrastudios.com)
 - Social Media: 
-  - [Twitter](https://twitter.com/elyndra_studios)
-  - [LinkedIn](https://www.linkedin.com/company/elyndra-studios)
+  - [Twitter](https://x.com/ElyndraStudios)
+  - [LinkedIn](https://www.linkedin.com/company/elyndrastudios)
   - [GitHub](https://github.com/Elyndra-Studios)
 
 ---
