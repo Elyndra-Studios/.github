@@ -8,7 +8,7 @@ At **Elyndra Studios**, we focus on creating innovative tools and frameworks for
 
 ## Our Projects
 
-### [Elementrix-UI](https://github.com/Elyndra-Studios/elementrix-ui)
+### [Elementrix-UI](https://github.com/Elyndra-Studios/elementrix-ui-core)
 **Elementrix-UI** is our flagship **open-source UI component library** designed to provide developers with **scalable, customizable**, and **developer-friendly** components to build modern web applications.
 
 - **Built with**: **StencilJS**, **TypeScript**, **SCSS**
